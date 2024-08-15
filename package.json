@@ -1,0 +1,27 @@
+{
+  "name": "hariom",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    
+  },
+  "repository": {
+    "type": "github",
+    "url": "https://github.com/maihoonhariom/hariom-serverdb-generate.git"
+  },
+  "keywords": ["npm"],
+  "author": "Hariom Rajput",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/maihoonhariom/hariom-serverdb-generate/issues"
+  },
+  "homepage": "https://github.com/maihoonhariom/hariom-serverdb-generate#readme",
+  "description": "I made it for me",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "ejs": "^3.1.10",
+    "express": "^4.19.2",
+    "mongoose": "^8.5.2",
+    "morgan": "^1.10.0"
+  }
+}
